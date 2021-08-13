@@ -1,5 +1,5 @@
 
-package gomodule
+package simplelibgo
 
 // GetCommonData a method
 func GetCommonData() string {
